@@ -3,3 +3,7 @@ const collabo = () =>{
  console.log('한줄 더 추가함 by CS')
  console.log('풀리퀘 받아주기 전에 한줄 더 추가함 by CS')
 }
+
+function lunch(){
+    console.log('오늘 뭐 먹지')
+}
